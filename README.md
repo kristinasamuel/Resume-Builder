@@ -1,2 +1,2 @@
-# Resume-builder
+# hackathon-resume-builder
 resume builder project
